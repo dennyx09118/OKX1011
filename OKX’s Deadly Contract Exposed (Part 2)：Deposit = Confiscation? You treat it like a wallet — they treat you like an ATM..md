@@ -19,7 +19,7 @@ Today, we are going to tear these shameless clauses apart — and show you exact
 <https://www.okx.com/zh-hans/help/terms-of-service?channelId=49606338>\
 *(We strongly recommend you check the clauses yourself after reading this — and see how the trap is laid.)*
 
-1. ## **OKX’s “Tyrant Clauses”: Your assets can be wiped out — all it takes is their word**
+## **OKX’s “Tyrant Clauses”: Your assets can be wiped out — all it takes is their word**
    On OKX, so-called “personal assets” are a complete joke.
 
    You think you own them?\
@@ -50,7 +50,7 @@ this is not a service agreement — it is a **confiscation notice**.
 This is not a risk disclosure.\
 It is a **pre-written authorization for robbery**.
 
-1. ## **Industry Comparison: Real Platforms Act Like Bodyguards — OKX Acts Like a Mugger**
+## **Industry Comparison: Real Platforms Act Like Bodyguards — OKX Acts Like a Mugger**
    To understand just how rogue OKX really is, let’s compare it against the **real baseline standards of the industry**.
    ### **Comparison One: Coinbase — Your Assets Always Belong to You**
    Coinbase’s **User Agreement** (Clauses 2.7.1 and 2.7.2) makes things unambiguous:
@@ -104,7 +104,7 @@ This is **pure lawlessness**.
 
 It’s treating users as **walking blood bags — ready to be harvested at any moment**.
 
-1. ## **Playing the Robber While Pretending to Be Compliant: Do These Shameless Terms Dare to See the Light of Day?**
+## **Playing the Robber While Pretending to Be Compliant: Do These Shameless Terms Dare to See the Light of Day?**
    In 2025, OKX just paid **a $500 million fine**.\
    And now it’s sharpening its knives, desperately trying to **IPO in the U.S.** and raise more money.
 
@@ -138,7 +138,7 @@ It’s treating users as **walking blood bags — ready to be harvested at any m
 
    *(End of this part. Stay tuned for the next installment in the series.)*
 
-   ### **How We Fight Back Against Platforms That Can Turn on You at Any Moment**
+**How We Fight Back Against Platforms That Can Turn on You at Any Moment**
 **Stop the illusions:**\
 Any profit or principal that hasn’t been withdrawn **does not truly belong to you**.
 
@@ -162,4 +162,5 @@ Telegram：@forestxx
 WhatsApp：+65 81275073      
 
 **4,Feb.,2026**    
+
 
